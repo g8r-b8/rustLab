@@ -1,0 +1,9 @@
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/futures_channel-dd4766533f07821c.rmeta: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lock.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/mod.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/queue.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/oneshot.rs
+
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/futures_channel-dd4766533f07821c.d: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lock.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/mod.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/queue.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/oneshot.rs
+
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lib.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/lock.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/mod.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/mpsc/queue.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.28/src/oneshot.rs:

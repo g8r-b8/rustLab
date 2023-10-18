@@ -1,0 +1,11 @@
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/bitflags-cbcdd8eeadf86e35.rmeta: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/bitflags-cbcdd8eeadf86e35.d: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs
+
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/lib.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/iter.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/parser.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/traits.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/public.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/internal.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.4.0/src/external.rs:

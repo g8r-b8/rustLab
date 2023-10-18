@@ -1,0 +1,11 @@
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/socket2-8a0e39962dc7457c.rmeta: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/libsocket2-8a0e39962dc7457c.rlib: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/wingatejones/Projects/helloRust/my_app/target/debug/deps/socket2-8a0e39962dc7457c.d: /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs /Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs
+
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/lib.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockaddr.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/socket.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sockref.rs:
+/Users/wingatejones/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.4/src/sys/unix.rs:
